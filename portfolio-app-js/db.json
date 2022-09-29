@@ -1,0 +1,32 @@
+{
+  "pieces": [
+    {
+      "id": 1,
+      "title": "Smiley",
+      "year": 2022,
+      "mediums": ["digital", "image"],
+      "description": "An image"
+    },
+    {
+      "id": 2,
+      "title": "Spastic Bombastic EP",
+      "year": 2022,
+      "mediums": ["music"],
+      "description": "Four song tape EP"
+    },
+    {
+      "id": 3,
+      "title": "Floating Body Tee",
+      "year": 2022,
+      "mediums": ["t-shirt", "screen print"],
+      "description": "T-shirt"
+    },
+    {
+      "id": 4,
+      "title": "City of Angels",
+      "year": 2022,
+      "medium": ["digital", "collage"],
+      "description": "Digital collage composed of images from L.A."
+    }
+  ]
+}
